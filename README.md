@@ -1,3 +1,4 @@
+📚 How It Works
 Takes a target URL with a parameter.
 
 Appends each payload to the URL.
@@ -15,3 +16,5 @@ Sends a GET request and scans the response for known SQL error indicators:
 "query failed"
 
 If any are found, it reports the URL as potentially vulnerable.
+
+👨‍💻 Author
